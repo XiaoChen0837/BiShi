@@ -1,0 +1,4 @@
+﻿  链表排序.cpp
+f:\年薪50w养成计划\c++练手项目\mybishi\mybishi\链表排序.cpp(194): error C2011: “Solution”:“class”类型重定义
+  f:\年薪50w养成计划\c++练手项目\mybishi\mybishi\链表排序.cpp(144): note: 参见“Solution”的声明
+f:\年薪50w养成计划\c++练手项目\mybishi\mybishi\链表排序.cpp(228): error C2079: “su”使用未定义的 class“Solution”
